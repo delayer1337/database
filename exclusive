@@ -1,0 +1,3 @@
+database = {
+  ["layer"] = {hwid = hiwd, key = key}, 
+}
